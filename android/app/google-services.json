@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044617447135",
+    "project_id": "milkbook-f28b3",
+    "storage_bucket": "milkbook-f28b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044617447135:android:35bfc5b7c8af1785694b6a",
+        "android_client_info": {
+          "package_name": "com.example.cricket_scorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044617447135-ta4gsltb0ccsbg4c016pbun281h3l701.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kHYDiFO0qsxlEq52E_SgUj9gFO_KumI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044617447135-ta4gsltb0ccsbg4c016pbun281h3l701.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
